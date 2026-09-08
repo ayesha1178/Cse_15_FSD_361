@@ -14,6 +14,7 @@
 // process.on('exit',function()(
 // console.log('good')
 // ))
+//next
 
  const{EventEmitter}=require('events');
  const eventEmitter = new EventEmitter();
