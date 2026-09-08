@@ -1,4 +1,4 @@
-console.log("Start");
+console.log("Start");             // Log "Start" to the console
 
 process.nextTick(() => {
     console.log("process.nextTick");
