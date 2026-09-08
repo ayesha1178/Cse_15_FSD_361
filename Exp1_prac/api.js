@@ -1,4 +1,4 @@
-//console.log("helloworld");
+//console.log("helloworld Welcome to Node.js");
 const os=require("os");
 console.log("free memory :",os.freemem());
 console.log("total memory :",os.totalmem());
