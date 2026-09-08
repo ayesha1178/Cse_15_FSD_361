@@ -3,5 +3,5 @@ const message = document.getElementById("message");
 
 button.addEventListener("click", () => {
     message.textContent =
-        "Thank you for visiting my portfolio!";
+        "Thank You for visiting my portfolio!";
 });
