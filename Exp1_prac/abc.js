@@ -1,7 +1,7 @@
-ram={
-    name:"ram",
+riya={
+    name:"riya",
     Lnumber: 1,
     developer: true
 }
  
-module.exports = ram;
+module.exports = riya;
