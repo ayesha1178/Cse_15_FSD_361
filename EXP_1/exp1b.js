@@ -1,4 +1,4 @@
-import EventEmitter from 'events';
+import EventEmitter from 'events';            // Importing the EventEmitter class from the 'events' module
 
 class Button extends EventEmitter {
     click() {
